@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<title>Thank you<3</title>
+<link rel="stylesheet" href="file:///C:/Users/Vaishusri/Documents/Vaishu's%20folder/index.html">
+<body class="w3-container">
+<h1>Submitted Form Data</h1>
+<h2>Your input was received as:</h2>
+<div class="w3-container w3-large w3-border" style="word-wrap:break-word">
+fname=&lname=&email=&pwd=&Age=&country=USA&birthday=&nbsp;</div>
+
+<p>The server has processed your input.</p>
+
+<div class="w3-panel w3-leftbar w3-border-black" style="background:#9370DB">
+<p><strong>Note:</strong> We will get back to you soon. </p>
+</div>
+
+</body>
+</html>
